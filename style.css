@@ -21,3 +21,14 @@ body{
     margin: 0 16px;
     font-size: 16px;
 }
+.memoia{
+background-image: -moz-linear-gradient( );
+color: ;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+.memoia{
+    width: 25%;
+}
