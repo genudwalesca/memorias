@@ -9,7 +9,7 @@ body {
 }
 .cabecalho {
     background-color: #75a85d;
-    color: white;
+    color: rgb(37, 102, 43);
     display: flex;
     justify-content: space-around;
     align-items:center;
@@ -24,12 +24,12 @@ body {
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 16px;
+    font-size: 20px;
 }    
 
 .sobre_corinthians{
     background-image: linear-gradient(#9dbe8e,#4daa64b4);
-    color:#FFFFFF;
+    color:#44622f;
     display: flex;
     justify-content: center;
     align-items: center;
