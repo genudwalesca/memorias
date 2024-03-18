@@ -1,42 +1,104 @@
 *{
     margin: 0;
     padding: 0;
-
-}
-body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
-
-}
-.cabecalho {
-    background-color: #b197db;
-    color: rgb(91, 74, 138);
-    display: flex;
-    justify-content: space-around;
-    align-items:center;
-    padding: 50px 0;
 }
 
-.cabecalho-imagem{
-    width: 20%;
 
-}
+    body{
+     font-family: 'Poppins', sans-serif;
+    }
 
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 90px;
-}    
+ /* secao cabecalho*/
+   .cabecalho{
+        background-color: #9f84cc;
+        color: rgb(90, 62, 155);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+   } 
 
-.sobre_lembranças{
-    background-image: linear-gradient(#9dbe8e,#4daa64b4);
-    color:#44622f;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 24px 0;
-}
+   .cabecalho-imagem{
+        width: 17%;
+   }
 
-.sobre_lembranças-imagem{
-    width: 20%;
-}
+   .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 90px;
+   }
+    
+     .sobre-os-animes-img{
+          width: 25%;
+     }
+
+      /* secao animes*/
+
+.sobre-os-animes{
+          background-image: linear-gradient(#3B0050,#3b00501f);
+          color:#a30000;
+          display: flex;
+          justify-content: center;
+          padding: 50px;
+          border-bottom: 2px solid #802f00cc;
+      }
+      
+      .sobre-os-animes-conteudo{
+          width: 650px;
+      }
+      .sobre-os-animes-titulo{
+          padding: 45px 0;
+          text-align: center;
+          font-size: 45px;
+      }
+      
+      .sobre_nos-paragrafo{
+          font-size: 25px;
+      }
+      
+      .sobre_nos-imagem{
+          width: 25%;
+      }
+      /* secao personagens*/
+.personagens{
+     background-color: #a9a9a9;
+ }
+ 
+ .personagens-titulo{
+ color: #3B0050;
+ text-align: center;
+ padding: 50px;
+ font-size: 45px;
+ }
+ 
+ .todos-personagens{
+     display: grid;
+     grid-template-columns: 33% 33% 33%;
+ }
+ .peronagens-animes{
+     text-align: center;
+    
+ }
+ 
+ .personagens-animes-imagem{
+     width: 155px;
+ }
+ .personagem-nome{
+     font-weight: 100;
+     text-decoration: underline;
+     color: #FFFFFF;
+ }
+ .personagem-nome:hover{
+     font-weight: 100;
+     text-decoration: underline;
+     color: orange;
+ }
+ .personagens-animes-icone{
+     width: 30px;
+     padding: 5px 0 10px 0;
+ }
+ .personagens-animes-icone:hover{
+     width: 35px;
+     padding: 5px 0;
+ }
 
