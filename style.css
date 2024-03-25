@@ -23,7 +23,7 @@
    }
 
    .cabecalho-lista-item{
-        display: inline-block;
+        display:-webkit-inline-flex;
         margin: 0 20px;
         font-size: 150px;
    }
