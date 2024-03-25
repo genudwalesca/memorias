@@ -5,13 +5,13 @@
 
 
     body{
-     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 
  /* secao cabecalho*/
    .cabecalho{
-        background-color: #c39ce2;
-        color: #7c559c;
+        background-color: #d8c0ec;
+        color: #a378c7;
         display: flex;
         justify-content: space-around;
         align-items: center;
