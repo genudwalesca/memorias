@@ -10,8 +10,8 @@
 
  /* secao cabecalho*/
    .cabecalho{
-        background-color: #c5c1c1;
-        color: white;
+        background-color: #c1e9af;
+        color: rgb(82, 187, 87);
         display: flex;
         justify-content: space-around;
         align-items: center;
