@@ -28,13 +28,13 @@
         font-size: 150px;
    }
     
-     .sobre-os-animes-img{
+     .fotografias-img{
           width: 25%;
      }
 
       /* secao animes*/
 
-.sobre-os-animes{
+.fotografias{
           background-image: linear-gradient(#3B0050,#3b00501f);
           color:#a30000;
           display: flex;
@@ -61,7 +61,7 @@
           width: 25%;
       }
       /* secao personagens*/
-.personagens{
+.fotos{
      background-color: #a9a9a9;
  }
  
