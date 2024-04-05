@@ -70,7 +70,7 @@
  
  .todos-personagens{
      display: grid;
-     grid-template-columns: 23% 23% 23%;
+     grid-template-columns: 33% 33% 33%;
  }
  .peronagens-animes{
      text-align: center;
