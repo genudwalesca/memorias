@@ -101,10 +101,10 @@
 
 
  .rodape{
-    background-color: rgb(#86c568;)
+    background-color: #86c568;
     text-align: center;
     padding: 50px;
-    border-top: 2px solid #ffff00b2;
+    border-top: 2px solid #21b128b2;
 }
 
 .rodape-titulo{
@@ -115,5 +115,4 @@
 
 .rodape-imagem{
     width: 100px;
-    filter: invert();
 }
